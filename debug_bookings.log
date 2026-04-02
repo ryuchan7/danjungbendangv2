@@ -1,0 +1,487 @@
+Array
+(
+    [0] => Array
+        (
+            [bookingID] => 37
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-16
+            [checkIN] => 2025-05-30
+            [checkOUT] => 2025-06-01
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 400.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_37_1747366119.png,Uploads/payment_proof_37_1748489501_payment_proof_2.png
+            [notes] => 
+            [customer_name] => FAUZIAH AWANG
+            [customer_email] => 
+            [customer_phone] => 0194440442
+            [customer_ic_no] => -
+            [created_at] => 2025-05-16 11:12:31
+        )
+
+    [1] => Array
+        (
+            [bookingID] => 44
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-19
+            [checkIN] => 2025-06-01
+            [checkOUT] => 2025-06-02
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => uploads/proof_44_1747624757.png,Uploads/payment_proof_44_1748756907_payment_proof_2.png
+            [notes] => 
+            [customer_name] => SITI NUR HUDA BINTI MAT HUSSIN
+            [customer_email] => 
+            [customer_phone] => 0189590573
+            [customer_ic_no] => -
+            [created_at] => 2025-05-19 11:19:09
+        )
+
+    [2] => Array
+        (
+            [bookingID] => 32
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-11
+            [checkIN] => 2025-06-07
+            [checkOUT] => 2025-06-08
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_32_1747366188.png,Uploads/payment_proof_32_1749300928_payment_proof_2.png
+            [notes] => 
+            [customer_name] => FAHMI NAJIB BIN AZIZAN
+            [customer_email] => 
+            [customer_phone] => 01139372260
+            [customer_ic_no] => -
+            [created_at] => 2025-05-11 19:23:49
+        )
+
+    [3] => Array
+        (
+            [bookingID] => 53
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-06-08
+            [checkIN] => 2025-06-09
+            [checkOUT] => 2025-06-10
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => uploads/proof_53_1749396312.png
+            [notes] => 
+            [customer_name] => NUR FALISSYA NADHIRAH BINTI MOHD SOPIAN
+            [customer_email] => 
+            [customer_phone] => 0184027620
+            [customer_ic_no] => -
+            [created_at] => 2025-06-08 23:25:05
+        )
+
+    [4] => Array
+        (
+            [bookingID] => 50
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-06-01
+            [checkIN] => 2025-06-15
+            [checkOUT] => 2025-06-17
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 500.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_1748741113_c7a566903f16e678.png,Uploads/payment_proof_50_1750316140_payment_proof_2.png
+            [notes] => 
+            [customer_name] => NOR LIN AHMAD
+            [customer_email] => 
+            [customer_phone] => 01128718552
+            [customer_ic_no] => -
+            [created_at] => 2025-06-01 09:25:13
+        )
+
+    [5] => Array
+        (
+            [bookingID] => 49
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-27
+            [checkIN] => 2025-06-18
+            [checkOUT] => 2025-06-19
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_1748315757_df61d481863da1eb.png,Uploads/payment_proof_49_1750316210_payment_proof_2.png
+            [notes] => 
+            [customer_name] => KHAIZAMAH BINTI ABDUL RASHID
+            [customer_email] => 
+            [customer_phone] => 0102064360
+            [customer_ic_no] => -
+            [created_at] => 2025-05-27 11:15:57
+        )
+
+    [6] => Array
+        (
+            [bookingID] => 47
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-25
+            [checkIN] => 2025-06-27
+            [checkOUT] => 2025-06-29
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 480.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_47_1748179692_payment_proof_1.jpg,Uploads/payment_proof_47_1751007147_payment_proof_2.png
+            [notes] => 
+            [customer_name] => JUHAIDA ABDUL AZIZ
+            [customer_email] => 
+            [customer_phone] => 0133990373
+            [customer_ic_no] => -
+            [created_at] => 2025-05-25 19:51:58
+        )
+
+    [7] => Array
+        (
+            [bookingID] => 62
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-07-03
+            [checkIN] => 2025-07-04
+            [checkOUT] => 2025-07-05
+            [number_of_guests] => 5
+            [payment_status] => Completed
+            [payment_method] => CASH
+            [amount_paid] => 180.00
+            [booking_status] => Confirmed
+            [payment_proof] => 
+            [notes] => sepupu ayahh
+            [customer_name] => JAMIL BIN HANAFIAH
+            [customer_email] => 
+            [customer_phone] => 01137817746
+            [customer_ic_no] => -
+            [created_at] => 2025-07-03 17:29:04
+        )
+
+    [8] => Array
+        (
+            [bookingID] => 68
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-07-05
+            [checkIN] => 2025-07-05
+            [checkOUT] => 2025-07-06
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => CASH
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_68_1751781205_payment_proof_1.png
+            [notes] => 5/7 - 6/7
+            [customer_name] => NUR AMIRAH BINTI MOHD SHAPRI
+            [customer_email] => 
+            [customer_phone] => 01160887074
+            [customer_ic_no] => -
+            [created_at] => 2025-07-05 14:20:14
+        )
+
+    [9] => Array
+        (
+            [bookingID] => 48
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-26
+            [checkIN] => 2025-07-11
+            [checkOUT] => 2025-07-13
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 500.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_1748232678_d9d5d81039fe97bb.png
+            [notes] => 
+            [customer_name] => MUHAMMAD HAZIM BIN SHUKRI
+            [customer_email] => 
+            [customer_phone] => 0102018015
+            [customer_ic_no] => -
+            [created_at] => 2025-05-26 12:11:18
+        )
+
+    [10] => Array
+        (
+            [bookingID] => 69
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-07-06
+            [checkIN] => 2025-07-14
+            [checkOUT] => 2025-07-15
+            [number_of_guests] => 7
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_1751781409_f1bf9f373c76e1c7.png
+            [notes] => 
+            [customer_name] => ISHAK BIN ABD RASHID
+            [customer_email] => 
+            [customer_phone] => 0127111901
+            [customer_ic_no] => -
+            [created_at] => 2025-07-06 13:56:49
+        )
+
+    [11] => Array
+        (
+            [bookingID] => 64
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-07-04
+            [checkIN] => 2025-08-29
+            [checkOUT] => 2025-08-31
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 350.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_64_1751598546_payment_proof_1.png
+            [notes] => 
+            [customer_name] => NORWANI BINTI ABD WAHID
+            [customer_email] => 
+            [customer_phone] => 0123416213
+            [customer_ic_no] => -
+            [created_at] => 2025-07-04 10:57:27
+        )
+
+    [12] => Array
+        (
+            [bookingID] => 54
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-06-19
+            [checkIN] => 2025-08-31
+            [checkOUT] => 2025-09-01
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_1750315644_8d1db14fedba09c7.jpg
+            [notes] => 
+            [customer_name] => SAADIAH BINTI ZAINOL
+            [customer_email] => 
+            [customer_phone] => 0135808282
+            [customer_ic_no] => -
+            [created_at] => 2025-06-19 14:47:24
+        )
+
+    [13] => Array
+        (
+            [bookingID] => 63
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-07-04
+            [checkIN] => 2025-09-12
+            [checkOUT] => 2025-09-13
+            [number_of_guests] => 6
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => uploads/proof_63_1751597401.png
+            [notes] => 
+            [customer_name] => ATIKAH BINTI CHE KAMALUDIN
+            [customer_email] => 
+            [customer_phone] => 0109637136
+            [customer_ic_no] => -
+            [created_at] => 2025-07-04 10:49:14
+        )
+
+    [14] => Array
+        (
+            [bookingID] => 46
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-23
+            [checkIN] => 2025-09-13
+            [checkOUT] => 2025-09-15
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 500.00
+            [booking_status] => Confirmed
+            [payment_proof] => uploads/proof_46_1747981336.png
+            [notes] => 
+            [customer_name] => NIK NUR IFADAH
+            [customer_email] => 
+            [customer_phone] => 0173513645
+            [customer_ic_no] => -
+            [created_at] => 2025-05-23 14:21:31
+        )
+
+    [15] => Array
+        (
+            [bookingID] => 65
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-07-04
+            [checkIN] => 2025-09-15
+            [checkOUT] => 2025-09-16
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => uploads/proof_65_1751610926.jpg
+            [notes] => 
+            [customer_name] => AMIRUL HAKIM
+            [customer_email] => 
+            [customer_phone] => 01110875616
+            [customer_ic_no] => -
+            [created_at] => 2025-07-04 14:35:16
+        )
+
+    [16] => Array
+        (
+            [bookingID] => 51
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-06-01
+            [checkIN] => 2025-09-18
+            [checkOUT] => 2025-09-21
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 750.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_1748788402_a2351001fd039929.png
+            [notes] => 
+            [customer_name] => NADIAH RAHMAN
+            [customer_email] => 
+            [customer_phone] => 0193767955
+            [customer_ic_no] => -
+            [created_at] => 2025-06-01 22:33:22
+        )
+
+    [17] => Array
+        (
+            [bookingID] => 36
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-12
+            [checkIN] => 2025-10-31
+            [checkOUT] => 2025-11-01
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_36_1747366152.png
+            [notes] => 
+            [customer_name] => AIN NUR AZLEEN ZULKEFLI
+            [customer_email] => 
+            [customer_phone] => 0174799117
+            [customer_ic_no] => -
+            [created_at] => 2025-05-12 20:47:15
+        )
+
+    [18] => Array
+        (
+            [bookingID] => 55
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-06-19
+            [checkIN] => 2025-12-26
+            [checkOUT] => 2025-12-27
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_1750316362_e4aa3201585592e0.png
+            [notes] => 
+            [customer_name] => SHAHRIN SAILAN
+            [customer_email] => 
+            [customer_phone] => 0183781414
+            [customer_ic_no] => -
+            [created_at] => 2025-06-19 14:59:22
+        )
+
+    [19] => Array
+        (
+            [bookingID] => 70
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-07-08
+            [checkIN] => 2025-12-27
+            [checkOUT] => 2025-12-28
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 250.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_70_1751970940_payment_proof_1.png
+            [notes] => 
+            [customer_name] => SALMI DISA
+            [customer_email] => 
+            [customer_phone] => 0148958856
+            [customer_ic_no] => -
+            [created_at] => 2025-07-08 18:25:07
+        )
+
+    [20] => Array
+        (
+            [bookingID] => 52
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-06-05
+            [checkIN] => 2026-02-13
+            [checkOUT] => 2026-02-15
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 500.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_1749114416_c0e239b02d2f995d.png
+            [notes] => 
+            [customer_name] => PN NORMA BINTI ISHAK
+            [customer_email] => 
+            [customer_phone] => 0139358262
+            [customer_ic_no] => -
+            [created_at] => 2025-06-05 17:06:56
+        )
+
+    [21] => Array
+        (
+            [bookingID] => 33
+            [userID] => 
+            [homestay_name] => D'Anjung Bendang Homestay
+            [book_date] => 2025-05-11
+            [checkIN] => 2026-03-21
+            [checkOUT] => 2026-03-25
+            [number_of_guests] => 15
+            [payment_status] => Completed
+            [payment_method] => ONLINE BANKING
+            [amount_paid] => 1000.00
+            [booking_status] => Confirmed
+            [payment_proof] => Uploads/payment_proof_33_1747366199.jpg
+            [notes] => 
+            [customer_name] => SUZANA ABU SAMAH
+            [customer_email] => 
+            [customer_phone] => 0127025609
+            [customer_ic_no] => -
+            [created_at] => 2025-05-11 19:28:11
+        )
+
+)
